@@ -1,3 +1,8 @@
+/*
+ * K. N. King, C Programming: A Modern Approach (2nd ed.)
+ * Chapter 7, Exercise 10: compute the check digit of a UPC barcode
+ * by reading the digits one at a time with scanf("%1d").
+ */
 #include <stdio.h>
 
 int main (void)
@@ -18,7 +23,6 @@ second_sum = i1 + i3 + i5 + j2 + j4;
 total = (3 * first_sum) + second_sum;
 check_digit = 9 - ((total - 1) % 10);
 
-12 = check_digit;
 
 printf("Check digit: %1d\n", check_digit);
 

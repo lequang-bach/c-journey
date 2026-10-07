@@ -1,3 +1,6 @@
+/*
+ * Day 01: variables and basic types (int, float, char) with printf.
+ */
 #include <stdio.h>
 
 int main(void) {
