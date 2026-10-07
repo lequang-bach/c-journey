@@ -25,7 +25,7 @@ Or compile one file: `gcc -std=c99 -Wall -Wextra file.c -o build/file`
 ## K. N. King exercises
 | Chapter | Exercise | Topic |
 | ------- | -------- | ----- |
-| [7](king-exercises/ch07/) | [7.10](king-exercises/ch07/07-10-upc-check-digit.c) | UPC check digit |
+| [4](king-exercises/ch04/) | [](king-exercises/ch07/07-10-upc-check-digit.c) | UPC check digit |
 
 ## Toolbox
 gcc, make, gdb, WSL2/Ubuntu
