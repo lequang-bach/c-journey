@@ -1,5 +1,7 @@
 # c-journey
 
+[![build](https://github.com/lequang-bach/c-journey/actions/workflows/build.yml/badge.svg)](https://github.com/lequang-bach/c-journey/actions/workflows/build.yml)
+
 Daily C practice, building toward embedded/firmware work.
 Following a structured roadmap — see progress below.
 

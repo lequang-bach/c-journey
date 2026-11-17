@@ -60,3 +60,6 @@ dkms.conf
 
 # Build output
 build/
+
+# Answer keys (kept local, never pushed)
+solutions/
